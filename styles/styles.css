@@ -1,0 +1,45 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 20px;
+    color: #333;
+}
+
+h1, h2 {
+    color: #1b4965;
+}
+
+nav {
+    background-color: #1b4965;
+    padding: 15px;
+}
+
+nav a {
+    color: white;
+    margin-right: 20px;
+    text-decoration: none;
+}
+main {
+    max-width: 840px;
+    margin: 0 auto;
+}
+
+aside {
+    width: 300px;
+    margin: 20px;
+    border: 1px solid #333;
+    padding: 15px;
+    background-color: #f0f0f0;
+}
+
+aside img {
+    width: 200px;
+    height: auto;
+}
+
+footer {
+    margin-top: 20px;
+    border-top: 1px solid #333;
+    text-align: center;
+}
