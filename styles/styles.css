@@ -1,3 +1,4 @@
+
 body {
     font-family: Arial, sans-serif;
     line-height: 1.6;
@@ -19,10 +20,22 @@ nav a {
     color: white;
     margin-right: 20px;
     text-decoration: none;
+    padding: 10px;
+    display: inline-block;
 }
+
 main {
     max-width: 840px;
     margin: 0 auto;
+}
+
+main img {
+    width: 150px;
+    height: auto;
+}
+
+p {
+    padding: 0;
 }
 
 aside {
@@ -31,6 +44,7 @@ aside {
     border: 1px solid #333;
     padding: 15px;
     background-color: #f0f0f0;
+    color: #333;
 }
 
 aside img {
