@@ -11,6 +11,10 @@ h1, h2 {
     color: #1b4965;
 }
 
+h1 {
+    color: #1b4965;
+}
+
 nav {
     background-color: #1b4965;
     padding: 15px;
@@ -21,7 +25,7 @@ nav a {
     margin-right: 20px;
     text-decoration: none;
     padding: 10px;
-    display: inline-block;
+    display: block;
 }
 
 main {
